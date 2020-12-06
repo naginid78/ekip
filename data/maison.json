@@ -1,0 +1,27 @@
+[{
+	"id" : 1,
+	"name" : "Serpentard",
+	"dir" : "Professeur Rogue",
+	"urlmaison" : "https://e7.pngegg.com/pngimages/616/422/png-clipart-slytherin-house-ravenclaw-house-hogwarts-harry-potter-google-others-google-slytherin-house.png",
+	"desc" : "Serpentard est l'une des quatre maisons du Collège Poudlard, école de sorcellerie. Elle a pour couleurs le vert et l'argent. Son emblème est le serpent, une référence aux pouvoirs de son fondateur, Salazar Serpentard, qui était un fourchelang. Après sa fondation, Salazar Serpentard donne pour instruction au Choixpeau de sélectionner les élèves qui seront répartis dans sa maison selon les caractéristiques qu'il valorisait le plus. Celles-ci incluent notamment la ruse, l'ambition et l'ingéniosité. De surcroît, Salazar Serpentard montre une forte préférence pour les élèves dits de Sang-Pur. Si le statut de sang n'est pas une caractéristique officielle de la maison Serpentard, il est tout de même notable que les élèves Né-Moldu sont très rares dans cette maison. À l'inverse, le Choixpeau a tendance à repartir à Serpentard la majorité des élèves de Sang-Pur, même si certains sont parfois envoyés à Gryffondor, Serdaigle ou Poufsouffle.  Le fantôme de la maison Serpentard est le Baron Sanglant. La salle commune se situe sous le lac de Poudlard. On y entre en disant un mot de passe devant un mur des cachots. "
+},
+{
+	"id" : 2,
+	"name" : "Gryffondor",
+	"dir" : "Professeur Mcgonagall",
+	"urlmaison" : "https://p1.hiclipart.com/preview/542/343/666/harry-potter-gryffindor-logo-thumbnail.jpg"
+},
+{
+	"id" : 3,
+	"name" : "Poufsouffle",
+	"dir" : "Professeur Chourave",
+	"urlmaison" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFY4iQfQJzAiQcgmua83JcsINQYo0zyUJh0g&usqp=CAU",
+	"desc" : "La salle commune est située aux sous-sols, à gauche des cuisines . Pour y accéder, il faut toquer au rythme des syllabes de Helga Poufsouffle sur le deuxième tonneau en partant du bas, au milieu de la deuxième rangée. Si le nombre de coups ou le bon tonneau sur lequel toquer n'est pas respecté, un flot de vinaigre se déverse sur l'intrus. Son insigne représente un blaireau sur fond de jaune et noir. Les valeurs de Poufsouffle sont la loyauté, la patience, la gentillesse, la modestie, le travail acharné, le fair-play, la persévérance la justice, la sincérité,, la tolérance, et l'amour de la nature. " 
+},
+{
+	"id" : 4,
+	"name" : "Serdaigle",
+	"dir" : "Professeur Flitwik",
+	"urlmaison" : "https://e7.pngegg.com/pngimages/585/130/png-clipart-ravenclaw-illustration-harry-potter-sorting-hat-helena-ravenclaw-ravenclaw-house-hogwarts-horned-icon-logo-helga-hufflepuff-thumbnail.png",
+	"desc" : "La maison Serdaigle récompense l'apprentissage, la sagesse, l'esprit et l'intellect dans ses membres. Ainsi, de nombreux Serdaigle ont tendance à être des étudiants motivés et talentueux. Ils sont également fiers d'être originaux dans leurs idées et leurs méthodes. Il n'est pas rare de trouver des étudiants de Serdaigle pratiquant différents types de magie que d'autres maisons pourraient éviter. Hermione Granger, une sorcière extrêmement intelligente et la meilleure élève de son année, a été placée dans la maison Gryffondor, bien qu'elle ait admis que le Choixpeau avait sérieusement envisagé de la placer chez les Serdaigle. "
+}]

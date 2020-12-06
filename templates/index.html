@@ -1,0 +1,18 @@
+<!doctype html>
+
+<title> Poudlard Express ! </title>
+<div style ="background-image : url('https://vignette.wikia.nocookie.net/crossroads/images/8/85/Hogwarts02.jpg/revision/latest?cb=20170506114231&path-prefix=fr')">
+<h1>Les maisons</h1>
+{% block content %}
+{{ super() }}
+	<div>
+
+		{% for maison in maisons %}
+			<div>
+			<div><a href="/maison/{{maison.id}}"><h2>{{ maison.name }}</h2></a></div>
+			<img src ="{{ maison.urlmaison}}"/>
+			<div>Directeur : {{ maison.dir}}</div>
+			</div>
+		{{% endfor %}
+	</div>
+{% endblock %}

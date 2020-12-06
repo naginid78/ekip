@@ -1,0 +1,15 @@
+<!doctype html>
+
+<title> Poudlard Express ! </title>
+<div style ="background-image : url('https://vignette.wikia.nocookie.net/crossroads/images/8/85/Hogwarts02.jpg/revision/latest?cb=20170506114231&path-prefix=fr')">
+{% block title %} {{ maison.name }} {% endblock %}
+{% block content %}
+ {{ super() }}
+<h1>{{ maison.name }} </h1>
+	
+	<img src ="{{ maison.urlmaison}}"/>
+		
+		<div>Directeur : {{ maison.dir}}</div>
+		<div>Description : {{ maison.desc}}</div>
+
+{% endblock %}
